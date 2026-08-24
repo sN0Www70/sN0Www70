@@ -1,35 +1,39 @@
-# 👋 Salut, moi c’est Naïm
+# 👋 Salut, moi c'est Naïm
 
-🎓 Développeur IT junior · Polyvalent · Créatif
+**DSI / CIO chez Odyssey Technology** — SaaS de gestion de restaurants.
+Je pose l'architecture, je livre les chantiers critiques, et j'encadre l'équipe qui construit l'app B2B.
 
-💼 Actuellement à la recherche d’opportunités en IT (support, développement, réseau, cybersécurité)
-
----
-
-## ⚒️ Mes compétences
-
-- 🖥️ **Dev Web** : PHP (MVC), HTML/CSS, JavaScript, MySQL  
-- ☕ **Java** : Mods Minecraft (Forge 1.16.5) avec commandes, GUIs, persistance JSON  
-- 🛠️ **Systèmes & Réseau** : configuration Livebox, accès distant, pare-feu  
-- 🧪 **Cybersécurité** : bases solides, bonne hygiène réseau, prévention des failles  
-- 📦 **Outils** : Git, WAMP, IntelliJ, Visual Studio Code, Discord Webhooks
+`sN0Www70` · aka `Sn0w`
 
 ---
 
-## 🚀 Projets
+## ⚒️ Stack
 
-### 🎮 MoreJobs *(mod Forge – Java)*
-[Voir le projet](https://github.com/sN0Www70/MoreJobs)  
-Un mod Minecraft RP complet avec métiers, monnaie personnalisée, XP, salaires, skills, et JSON persistants. (MultiPlayer Friendly, sous Forge 1.16.5)
+**Backend** · TypeScript · Cloudflare Workers · Hono · Drizzle ORM · Neon (PostgreSQL)
+**Front** · React Native / Expo · React · Next.js · Tailwind
+**Infra** · pnpm monorepo · Wrangler · Vercel · Supabase · NeonDB · Pusher
 
-### 🌐 Djerba Expérience *(PHP – Web)*
-[Voir le projet](https://github.com/sN0Www70/djerba-experience)  
-Un site de réservation d’activités touristiques (MVC PHP, MySQL, Webhooks Discord).
-
+*(je fais aussi du dev gaming pour le fun : POO Java sur Minecraft, Lua sur GTA FiveM)*
 
 ---
 
-## 🎯 Objectif
+## 🚀 Ce que j'ai livré
 
-Trouver une entreprise ou une mission où je peux continuer à apprendre, développer et dépanner.  
-📬 Contact : [LinkedIn](www.linkedin.com/in/naïm-atrache) — ou en vocal Discord si tu préfères 😉
+- 🍽️ **Intégration Reserve with Google** — réservation End-to-End, livrée en solo
+- 🖨️ **Système d'impression E2E commerçant** — ESC/POS vers imprimantes réseau, temps réel
+- 🧾 **Intégration POS** — synchronisation caisse ↔ plateforme
+- 💳 **Paiement en ligne** — parcours de paiement complet et sécurisé
+
+---
+
+## 📦 Projet public
+
+### 🧲 [LeadScraper] — prospection B2B
+`Next.js 14` `Supabase` `SerpAPI` `API Recherche Entreprises` `Leaflet`
+Recherche d'établissements, Kanban de suivi, mode prospection géolocalisé, 7 langues, mobile-first.
+
+---
+
+## 📬 Contact
+
+[LinkedIn](https://www.linkedin.com/in/naïm-atrache)
